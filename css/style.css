@@ -10,10 +10,12 @@ header{
 
 main{
     border:2px dotted red;
+    background-color: aqua;
 }
 
 footer{
     border:10px thick lavender;
+    background-color: lightgreen;
 }
 
 h2{
