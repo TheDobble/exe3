@@ -3,6 +3,9 @@ h1{
     color : blue;
 }
 
+header{
+    border: 1px solid black;
+}
 
 h2{
     size: 100px;
